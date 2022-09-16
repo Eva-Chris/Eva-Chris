@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eva Chrysostomaki</h1>
 <h3 align="center">Computer Science Student</h3>
-<img align="left" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="left" border-radius="50%" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <br>-📫 How to reach me **chrisostomaki.eva@gmail.com**
 <br>-😄 Pronouns: she/her
