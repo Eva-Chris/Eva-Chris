@@ -2,6 +2,8 @@
 <h3 align="center">Computer Science Student</h3>
 <img align="left" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>
+
 <br>-📫 How to reach me **chrisostomaki.eva@gmail.com**
 <br>-😄 Pronouns: she/her
 <br>
