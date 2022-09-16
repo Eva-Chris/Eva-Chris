@@ -2,9 +2,9 @@
 <h3 align="center">Computer Science Student</h3>
 <img align="left" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 📫 How to reach me **chrisostomaki.eva@gmail.com**
-- 😄 Pronouns: she/her
-- 
+<br>-📫 How to reach me **chrisostomaki.eva@gmail.com**
+<br>-😄 Pronouns: she/her
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eva-chris" alt="eva-chris" /></a> </p>
 
 
