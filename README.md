@@ -5,8 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>
 
-<br>-📫 How to reach me **chrisostomaki.eva@gmail.com**
-<br>-😄 Pronouns: she/her
+-📫 How to reach me **chrisostomaki.eva@gmail.com**
+-😄 Pronouns: she/her
+<br>
+<br>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eva-chris" alt="eva-chris" /></a> </p>
 
