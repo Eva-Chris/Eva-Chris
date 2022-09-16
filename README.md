@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eva Chrysostomaki</h1>
 <h3 align="center">Computer Science Student</h3>
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
+<img align="center" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eva-chris" alt="eva-chris" /></a> </p>
 
 - 📫 How to reach me **chrisostomaki.eva@gmail.com**
