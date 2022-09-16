@@ -4,7 +4,7 @@
 
 <br>-📫 How to reach me **chrisostomaki.eva@gmail.com**
 <br>-😄 Pronouns: she/her
-
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eva-chris" alt="eva-chris" /></a> </p>
 
 
