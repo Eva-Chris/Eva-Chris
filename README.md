@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eva Chrysostomaki</h1>
-<h3 align="center">Computer Science Student</h3>
+<h1 align="center">Hi 👋, I'm Eva</h1>
+<h3 align="center">Computer Science Graduate</h3>
 
 <img align="left" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="coding" width="25%" border="0" style="max-width: 100%;">
 
