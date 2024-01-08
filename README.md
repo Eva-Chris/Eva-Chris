@@ -10,11 +10,26 @@
 
 <br>
 <br>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/399566948670898178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/399566948670898178" height="30" width="40" /></a>
+<p>
+  <h4>Connect with me</h4>
+  <a href="https://www.linkedin.com/in/eva-chrysostomaki/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+   <a href="discord.com/users/_paracosm">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
 </p>
+
+<!-- <p>
+  <a href="https://discord.gg/WjEFnzC">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  <a href="https://www.threads.net/@peterthehan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
+      <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
+  <a href="https://youtube.com/@peterthehan">
+    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
+</p> -->
 
 
 <h4>Languages:</h4>
@@ -27,5 +42,4 @@
 | ------------- | -------------  | ------------- | ------------- |
 | [![My Skills](https://skillicons.dev/icons?i=angular,flask)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eva-chris&show_icons=true&locale=en&theme=radical" alt="eva-chris" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eva-Chris&show_icons=true&theme=radical)
