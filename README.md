@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-📫 <b>How to reach me:</b> **chrisostomaki.eva@gmail.com**
+📫 <b>How to reach me:</b> <a href = "mailto: chrisostomaki.eva@gmail.com">chrisostomaki.eva@gmail.com</a>
 <br>😄 <b>Pronouns:</b> she/her
 </p>
 <hr>
@@ -36,10 +36,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev)
 
-
-
 | Frameworks  | IDEs  | Tools | OS
 | ------------- | -------------  | ------------- | ------------- |
 | [![My Skills](https://skillicons.dev/icons?i=angular,flask)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eva-Chris&show_icons=true&theme=radical)
+<hr>
+
+| Joke of the day | Stats |
+| ------------- | -------------  |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eva-Chris&show_icons=true&theme=radical) |
+
+
+
+
+
