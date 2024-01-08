@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Eva</h1>
+<h1 align="center">Hi 👋, I'm Eva </h1>
 <h3 align="center">Computer Science Graduate</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>
 
-<img align="left" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="coding" width="25%" border="0" style="max-width: 100%;">
+<p align="center">
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" width="45%" border="0" style="max-width: 100%;">
+</p>
 
-<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>
-
--📫 How to reach me **chrisostomaki.eva@gmail.com**
-<br> -😄 Pronouns: she/her
-
-<br>
-<br>
+<p align="center">
+📫 <b>How to reach me:</b> **chrisostomaki.eva@gmail.com**
+<br>😄 <b>Pronouns:</b> she/her
+</p>
 <hr>
 
 <p>
@@ -32,7 +32,7 @@
 </p> -->
 
 
-<h4>Languages:</h4>
+<h4>Languages</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev)
 
