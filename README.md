@@ -1,5 +1,5 @@
 <h1 align="center"><samp>Hi 👋, I'm Eva </samp></h1>
-<h3 align="center"><samp>Frontend Developer</samp></h3>
+<h3 align="center"><samp>Full-Stack Developer</samp></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>
 
 <p align="center">
